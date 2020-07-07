@@ -12,5 +12,48 @@
     color: crimson;
 }
 .buy-it{
-    color: rgb(71, 3, 3);
+    color: rgb(223, 223, 202);
+    background-color:rgb(46, 12, 238);
+    border-radius: 5px;
+    padding: 5px 5px;
+
+    
+    
+}
+.cat1, .cat2, .cat3{
+    padding: 10px 30px;
+    border-radius: 30px;
+}
+.cat1{
+    background-color: rgb(244, 247, 77);
+}
+.cat2{
+    background-color: mediumspringgreen;
+}
+.cat3{
+    background-color: rgb(95, 95, 247);
+}
+.categories h1{
+    color: rgb(41, 2, 2);
+}
+.categories img{
+    width: 100px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightslategray;
+    border-radius: 10px;
+}
+.card-footer{
+    background-color: mintcream;
+    border-top: none;
+}
+#subscribe{
+    height: 300px;
+}
+#subscribe h6{
+    color: gray;
+}
+footer{
+    text-align: center;
 }
